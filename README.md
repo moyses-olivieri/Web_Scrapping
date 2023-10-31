@@ -75,10 +75,12 @@ Você pode alterar o caminho e o nome do arquivo de acordo com suas preferência
 
 # Executando o Script
 
-'''
-python scrapping.py
 
 '''
+python scrapping.py
+'''
+
+
 
 
 Observação: Dependendo do site, poderá estar sujeito a políticas de privacidade. É sempre importante conferir as informações para realizar a raspagem dos dados. Fique à vontade para forkar e clonar o projeto em sua máquina! 
