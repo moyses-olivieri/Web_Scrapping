@@ -1,6 +1,6 @@
 # Web_Scrapping
 
-Sempre fui muito apaixonado pela área de dados. Neste projeto destaco um dos ponto importantissímos, para uma análise de dados mais profunda e compreensível: A extração dos dados. Existem diversas maneiras de extrair os dados, neste projeto meu foco foi entender mais profundamente como funciona a extração dos dados.
+Sempre fui muito apaixonado pela área de dados. Neste projeto destaco um dos ponto importantissímos, para uma análise de dados mais profunda e compreensível: A extração dos dados. Existem diversas maneiras de extrair os dados, neste projeto meu foco foi entender mais profundamente como funciona a extração dos dados usando Web_scrapping. Os dados que foram coletados são brutos, ou seja, não passou por um tratamento.
 
 ## O que é Web Scrapping?
 
